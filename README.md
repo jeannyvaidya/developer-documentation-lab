@@ -14,7 +14,7 @@ competencies: Java, Documentation, Fundamentals
 
 # Developer Documentation Lab
 
-Practice using Developer Documentation to find answers to problems you encounter!
+Practice using Developer Documentation to find answers to problems you encounter! This lab is broken into **3** group assignments. The first will have you use the `ArrayList` again. Next, you'll practice asking and answering questions that others will be able to understand. Finally, you'll learn a new class in Java and developer documentation to teach yourself the `StringBuilder`!
 
 ## Properly Asking for Help (30 minutes)
 
