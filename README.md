@@ -56,7 +56,7 @@ Practice using Developer Documentation to find answers to problems you encounter
 - Complete an application as a that uses StringBuilder!
 - Deploy it on Github!
 
-## Wrap Up
+## Wrap Up (5 minutes)
 
 - Ask questions! Let's get everything out. 
 - What hurt? What felt great?
